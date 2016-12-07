@@ -114,8 +114,8 @@ googleAnaly:
 
 #baidu tongji
 baiduTongji:
-  config: false
-  id: c12b560f0372d5995701449b9eac606c
+  config: true
+  id: 590bea72207b3d42d0e7693e60b90dbd
 
 #comment config
 disqus:
