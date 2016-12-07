@@ -77,8 +77,8 @@ follow:
     url: http://weibo.com/hb1013767522
   # - class: icon-facebook
     # url: http://facebook.com/
-   - class: icon-github-alt
-     url: https://github.com/bo-huang
+  - class: icon-github-alt
+    url: https://github.com/bo-huang
   # - class: icon-twitter
     # url: http://twitter.com/
   #- class: icon-google-plus
