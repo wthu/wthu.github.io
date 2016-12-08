@@ -40,10 +40,10 @@ timezone:      null
 
 
 #Site config
-title: bohuang
-description: C++
-keywords: C++ blog
-url: https://bo-huang.github.io
+title: Wenzi
+description: Blog
+keywords: Blog
+url: https://wthu.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
@@ -62,7 +62,7 @@ nav:
 
 #Author config
 author:
-    name: bohuang
+    name: wenzi
     email: bhuang16@foxmail.com
     imageLink: /images/header.jpg
     simpleIntro: 只要有树叶飞舞的地方，火就会燃烧。
@@ -74,9 +74,9 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/hb1013767522
+    url: http://weibo.com/u/2993390994
   - class: icon-github-alt
-    url: https://github.com/bo-huang
+    url: https://github.com/wthu
   # - class: icon-facebook
     # url: http://facebook.com/
   # - class: icon-twitter
@@ -88,7 +88,7 @@ follow:
 customLinks:
   - item:
     - text: 捡石子的小孩
-      url: http://blog.csdn.net/bobo1013767522
+      url: http://bo-huang.github.io
     message: Friends    
   - item:
     # - text: 捡石子的小孩
@@ -112,7 +112,7 @@ disqus:
 
 duoshuo:
   config: true
-  id: bohuang
+  id: wthu
 
 #baidu share config
 baiduShare:
