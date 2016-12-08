@@ -41,8 +41,8 @@ timezone:      null
 
 #Site config
 title: bohuang
-description: c++
-keywords: c++
+description: C++
+keywords: C++ blog
 url: https://bo-huang.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
@@ -75,36 +75,26 @@ follow:
     url: /atom.xml
   - class: icon-weibo
     url: http://weibo.com/hb1013767522
-  # - class: icon-facebook
-    # url: http://facebook.com/
   - class: icon-github-alt
     url: https://github.com/bo-huang
+  # - class: icon-facebook
+    # url: http://facebook.com/
   # - class: icon-twitter
     # url: http://twitter.com/
   #- class: icon-google-plus
-  #  url: https://plus.google.com/116595571760191938657/about
+  #  url: https://plus.google.com/
 
 #Links
 customLinks:
   - item:
     - text: 捡石子的小孩
       url: http://blog.csdn.net/bobo1013767522
-    # - text: Jekyll
-      # url: http://jekyllrb.com
-    # - text: Jekyll Theme
-      # url: http://www.zhanxin.info/themes.html
+    - text: 小清新d调的华丽
+      url: http://weibo.com/u/2977479513
     message: Friends    
   - item:
     # - text: 捡石子的小孩
       # url: http://blog.csdn.net/bobo1013767522
-    # - text: Web Developer
-      # url: http://www.fromdev.com/
-    # - text: BeginnersBook
-      # url: http://beginnersbook.com/
-    # - text: Mkyong
-      # url: http://www.mkyong.com/
-    # - text: Java By Nataraj
-      # url: http://javabynataraj.blogspot.in/
     # message: About c++
 
 #googleAnaly, your id link UA-12345678-X
