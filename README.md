@@ -1,2 +1,2 @@
-# bo-huang.github.io
+# wthu.github.io
 homepage
