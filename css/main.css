@@ -101,7 +101,7 @@ a         { color: #91736b; text-decoration: none; }
     border-bottom: 3px double #46635e;
 }
 .nav-item-active a {
-    color: #f8f3f8;
+    color: #f2eeec;
 }
 .nav-item-active a:hover {
     border-bottom: 3px double rgba(255, 255, 255, 0.3);
@@ -413,7 +413,7 @@ a         { color: #91736b; text-decoration: none; }
     width: 32px;
     height: 32px;
     display: block;
-    background: #f8f3f8;
+    background: #f2eeec;
     text-align: center;
 }
 .main .pagination-list .current a {
@@ -465,7 +465,7 @@ a         { color: #91736b; text-decoration: none; }
     display: block;
     float: left;
     line-height: 32px;
-    background: #f8f3f8;
+    background: #f2eeec;
     padding: 0 10px;
 }
 .main .article-year li a:hover {
@@ -549,7 +549,7 @@ a         { color: #91736b; text-decoration: none; }
     text-align: center;
     line-height: 32px;
     margin: 0 10px 10px 0;
-    background: #f8f3f8;
+    background: #f2eeec;
     float: left;
 }
 .main .article .social a:hover {
@@ -568,7 +568,7 @@ a         { color: #91736b; text-decoration: none; }
     display: inline-block;
     text-align: center;
     padding: 0 10px;
-    background: #f8f3f8;
+    background: #f2eeec;
     width: auto;
 }
 .main .article .contact a:hover {
@@ -601,7 +601,7 @@ a         { color: #91736b; text-decoration: none; }
     line-height: 32px;
     height: 32px;
     padding: 0 10px;
-    background: #f8f3f8;
+    background: #f2eeec;
 }
 .main .article .links-list li a:hover {
     border-bottom: none;
@@ -619,7 +619,7 @@ a         { color: #91736b; text-decoration: none; }
     height: 32px;
     line-height: 32px;
     padding: 0 10px;
-    background: #f8f3f8;
+    background: #f2eeec;
     border-bottom:  none;
 }
 .main .article .article-previous .prev {
@@ -660,7 +660,7 @@ a         { color: #91736b; text-decoration: none; }
     padding: 20px 20px 40px 20px;
     margin-top: 26px;
     float: left;
-    background: #f8f3f8 url(../images/aside-bg.jpg) no-repeat 0px 0px;
+    background: #f2eeec url(../images/aside-bg.jpg) no-repeat 0px 0px;
     width: 240px;
     min-height: 500px;
     height: auto;
