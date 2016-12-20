@@ -184,12 +184,32 @@ a         { color: #91736b; text-decoration: none; }
     color: #565656;
 }
 .main .article ul{
-    /* list-style-type: disc; */
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 1em;
+}
+.main .article ul ul{
+    list-style-type: circle;
+    padding-left: 20px;
+    margin-bottom: 1em;
+}
+.main .article ul ul ul{
+    list-style-type: square;
     padding-left: 20px;
     margin-bottom: 1em;
 }
 .main .article ol {
-    /* list-style-type: decimal; */
+    list-style-type: decimal;
+    padding-left: 20px;
+    margin-bottom: 1em;
+}
+.main .article ol ol{
+    list-style-type: lower-roman;
+    padding-left: 20px;
+    margin-bottom: 1em;
+}
+.main .article ol ol ol{
+    list-style-type: lower-alpha;
     padding-left: 20px;
     margin-bottom: 1em;
 }
